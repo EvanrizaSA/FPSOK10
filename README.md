@@ -80,8 +80,6 @@ Docker is use to containerized our development environtment. In this project doc
 -   ##### [Dockerfile](https://github.com/EvanrizaSA/FPSOK10/blob/main/Dockerfile)
     This files are use for configuring every image that have been installed. In this project we assign every image to the user and group so that it can be accessed in the server
 
--   ##### [docker-compose.yml](https://github.com/EvanrizaSA/FPSOK10/blob/main/docker-compose.yml)
-    This file is used to define and manage multi-container applications using Docker. In this project, it specifies the configuration for the web service, including the Docker image, container name, and port mapping. It simplifies the deployment process by enabling the container to run seamlessly on the server.
 
 ## Contact
 
